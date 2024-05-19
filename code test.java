@@ -27,6 +27,5 @@ public class MainTest {
         Main.readNumbers("nonExistentFile.txt");
     }
 
-    // Performance testing is complex and requires tools like JMH (Java Microbenchmark Harness).
-    // It's beyond the scope of basic unit testing and typically involves running benchmarks over time.
+    
 }
